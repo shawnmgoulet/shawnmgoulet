@@ -1,6 +1,6 @@
 ### 👋Hi👋, I'm Shawn, a Software Developer at [Esri](https://www.esri.com/en-us/arcgis/services/overview) on the Professional Services | Atlantic Delivery Center - Southeast team.
 
-![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnmgoulet&hide_rank&theme=highcontrast&show_icons=true)
+![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnmgoulet&hide_rank=true&theme=highcontrast&show_icons=true)
 
 <!--
 **shawnmgoulet/shawnmgoulet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

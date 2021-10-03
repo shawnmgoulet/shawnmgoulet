@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Shawn. 👋 I'm a Software Developer at Esri on the Professional Services | Atlantic Delivery Center - Southeast team.
 
 ![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnmgoulet&hide_rank)
 

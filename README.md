@@ -1,4 +1,4 @@
-### 👋Hi👋, I'm Shawn, a Software Developer at [Esri](https://www.esri.com/en-us/arcgis/services/overview) on the Professional Services | Atlantic Delivery Center team.
+### 👋Hi👋, I'm Shawn, a Software Developer at [Esri](https://www.esri.com/en-us/arcgis/services/overview) on the Professional Services | Advanced Analytics team.
 
 ![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnmgoulet&hide_rank=true&theme=highcontrast&show_icons=true)
 
